@@ -1,2 +1,2 @@
 # python-lesson1
-rest API
+Malumotlar bazasi bilan ishlash
